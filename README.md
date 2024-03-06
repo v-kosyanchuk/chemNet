@@ -1,2 +1,2 @@
 # chemNet
-Neural network for computation hydrogen-air combustion kinetics
+Neural network for computation of hydrogen-air combustion kinetics
